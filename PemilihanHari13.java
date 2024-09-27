@@ -15,7 +15,7 @@ public class PemilihanHari13 {
             case "thursday":
             case "friday":
             dayType = "weekday";
-                break;
+            break;
             case "saturday":
             case "sunday":
             dayType = "weekend";
